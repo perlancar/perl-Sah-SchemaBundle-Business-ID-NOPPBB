@@ -1,4 +1,4 @@
-package Sah::Schemas::Business::ID::NOPPBB;
+package Sah::SchemaBundle::Business::ID::NOPPBB;
 
 use strict;
 
